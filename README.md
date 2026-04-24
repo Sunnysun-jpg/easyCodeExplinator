@@ -1,5 +1,3 @@
-# easyCodeExplinator
-helping people understand code better
 explain-my-code/
 ├── frontend/                    # React + Tailwind
 │   ├── public/
